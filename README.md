@@ -8,4 +8,4 @@ Another Line
 
 Added to master again
 
-Change for testing fetch vs pull
+Made more changes for git pull vs fetch demo
