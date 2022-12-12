@@ -4,8 +4,5 @@
 
 ## Im in the feature branch
 
-Another Line
-
-Added to master again
-
-Change for testing fetch vs pull
+## Readon for this Repo
+This is training in git coding language.
